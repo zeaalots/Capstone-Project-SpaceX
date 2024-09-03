@@ -25,5 +25,5 @@ This project covers various analyses and predictive modeling tasks, including:
 - Interactive Dashboards: Providing a user-friendly interface for exploring SpaceX launch data.
 
 ## External References
-SpaceX REST API: [SpaceX API Documentation](https://github.com/r-spacex/SpaceX-API)
-IBM Data Science Professional Certificate: [Course Link](https://www.coursera.org/professional-certificates/ibm-data-science)
+- SpaceX REST API: [SpaceX API Documentation](https://github.com/r-spacex/SpaceX-API)
+- IBM Data Science Professional Certificate: [Course Link](https://www.coursera.org/professional-certificates/ibm-data-science)
