@@ -33,7 +33,7 @@ This project covers various analyses and predictive modeling tasks, including:
 
 ## PPT File
 
-You can access my ppt file here : [https://drive.google.com/file/d/19fYJZwxukHZHez_8sASjJRscYQ2O2PTT/view?usp=sharing](SpaceX Capstone Project.ppts)
+You can access my ppt file here : [SpaceX Capstone Project.ppts](https://drive.google.com/file/d/19fYJZwxukHZHez_8sASjJRscYQ2O2PTT/view?usp=sharing)
 
 ## External References
 
