@@ -31,6 +31,10 @@ This project covers various analyses and predictive modeling tasks, including:
 - Predictive Analysis: Building and evaluating machine learning models to predict rocket landing success.
 - Interactive Dashboards: Providing a user-friendly interface for exploring SpaceX launch data.
 
+## PPT File
+
+You can access my ppt file here : [https://drive.google.com/file/d/19fYJZwxukHZHez_8sASjJRscYQ2O2PTT/view?usp=sharing](SpaceX Capstone Project.ppts)
+
 ## External References
 
 - SpaceX REST API: [SpaceX API Documentation](https://github.com/r-spacex/SpaceX-API)
