@@ -30,6 +30,7 @@ This project covers various analyses and predictive modeling tasks, including:
 - Data Exploration: Insightful visualizations to understand patterns in rocket launches and landings.
 - Predictive Analysis: Building and evaluating machine learning models to predict rocket landing success.
 - Interactive Dashboards: Providing a user-friendly interface for exploring SpaceX launch data.
+- Model Accuracy of `83.3%`
 
 ## PPT File
 
